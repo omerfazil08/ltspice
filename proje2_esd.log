@@ -1,0 +1,21 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\proje2_esd.asc
+
+.OP point found by inspection.
+
+Date: Mon Jun 10 23:21:14 2024
+Total elapsed time: 0.044 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3996
+traniter = 3996
+tranpoints = 1999
+accept = 1830
+rejected = 169
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1:       6 opcodes  0.1/[0.0]/0.0
+Matrix Compiler2: off  [0.0]/0.1/0.0
+

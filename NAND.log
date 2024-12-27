@@ -1,0 +1,26 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\NAND.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 5e-010 to 5e-010
+Heightened Def Con from 5e-010 +++++++++++++++++++to 1e-009
+Heightened Def Con from 0.003 ++++++++++++++++++++to 0.003
+Heightened Def Con from 0.004 +++++++++++++++++++to 0.004
+Heightened Def Con from 0.007 ++++++++++++++++++++to 0.007
+
+Date: Fri Mar 15 00:52:18 2024
+Total elapsed time: 0.047 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 13821
+traniter = 13814
+tranpoints = 2858
+accept = 1907
+rejected = 1034
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1:      13 opcodes  0.1/[0.0]/0.0
+Matrix Compiler2: off  [0.0]/0.1/0.0
+

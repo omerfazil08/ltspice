@@ -1,0 +1,5 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\FAILL.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 9e-010 ++++++++++++++++++++++++++++++++++++++++++++++++++Fatal Error: Analysis:  Time step too small; time = 9e-010, timestep = 1.25e-019: trouble with or-instance a7
+
