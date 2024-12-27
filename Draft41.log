@@ -1,0 +1,26 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\Draft41.asc
+
+WARNING: Less than two connections to node CARRY1.  This node is used by A3.
+WARNING: Less than two connections to node SUM1.  This node is used by A5.
+WARNING: Less than two connections to node SUM0.  This node is used by A4.
+WARNING: Less than two connections to node C.  This node is used by V1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Apr 22 18:21:42 2024
+Total elapsed time: 2.140 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 774132
+traniter = 774124
+tranpoints = 188156
+accept = 140741
+rejected = 47415
+matrix size = 37
+fillins = 0
+solver = Normal
+Thread vector: 1.2/1.0[2] 0.5/0.5[1] 0.2/0.4[1] 0.1/0.3[1]  2592/500
+Matrix Compiler1: 724 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.65 KB object code size  0.1/0.2/[0.1]
+

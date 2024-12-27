@@ -1,0 +1,82 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\Draft37.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.002 ++++++++++++++++++++to 0.002
+Heightened Def Con from 0.003 ++++++++++++++++++++to 0.003
+Heightened Def Con from 0.004 ++++++++++++++++++++to 0.004
+Heightened Def Con from 0.005 ++++++++++++++++++++to 0.005
+Heightened Def Con from 0.006 ++++++++++++++++++++to 0.006
+Heightened Def Con from 0.0114 ++++++++++++++++++++to 0.0114
+Heightened Def Con from 0.012 ++++++++++++++++++++to 0.012
+Heightened Def Con from 0.013 ++++++++++++++++++++to 0.013
+Heightened Def Con from 0.014 ++++++++++++++++++++to 0.014
+Heightened Def Con from 0.015 to 0.015
+Heightened Def Con from 0.015 ++++++++++++++++++++to 0.015
+Heightened Def Con from 0.016 ++++++++++++++++++++to 0.016
+Heightened Def Con from 0.021 ++++++++++++++++++++to 0.021
+Heightened Def Con from 0.022 ++++++++++++++++++++to 0.022
+Heightened Def Con from 0.023 ++++++++++++++++++++to 0.023
+Heightened Def Con from 0.024 ++++++++++++++++++++to 0.024
+Heightened Def Con from 0.025 ++++++++++++++++++++to 0.025
+Heightened Def Con from 0.0302 ++++++++++++++++++++to 0.0302
+Heightened Def Con from 0.031 ++++++++++++++++++++to 0.031
+Heightened Def Con from 0.032 ++++++++++++++++++++to 0.032
+Heightened Def Con from 0.033 ++++++++++++++++++++to 0.033
+Heightened Def Con from 0.034 ++++++++++++++++++++to 0.034
+Heightened Def Con from 0.0396 ++++++++++++++++++++to 0.0396
+Heightened Def Con from 0.04 ++++++++++++++++++++to 0.04
+Heightened Def Con from 0.041 ++++++++++++++++++++to 0.041
+Heightened Def Con from 0.042 ++++++++++++++++++++to 0.042
+Heightened Def Con from 0.043 ++++++++++++++++++++to 0.043
+Heightened Def Con from 0.044 ++++++++++++++++++++to 0.044
+Heightened Def Con from 0.049 to 0.049
+Heightened Def Con from 0.049 to 0.049
+Heightened Def Con from 0.049 ++++++++++++++++++++to 0.049
+Heightened Def Con from 0.05 ++++++++++++++++++++to 0.05
+Heightened Def Con from 0.051 ++++++++++++++++++++to 0.051
+Heightened Def Con from 0.052 ++++++++++++++++++++to 0.052
+Heightened Def Con from 0.053 ++++++++++++++++++++to 0.053
+Heightened Def Con from 0.0584 ++++++++++++++++++++to 0.0584
+Heightened Def Con from 0.059 ++++++++++++++++++++to 0.059
+Heightened Def Con from 0.06 ++++++++++++++++++++to 0.06
+Heightened Def Con from 0.061 ++++++++++++++++++++to 0.061
+Heightened Def Con from 0.062 ++++++++++++++++++++to 0.062
+Heightened Def Con from 0.063 ++++++++++++++++++++to 0.063
+Heightened Def Con from 0.068 ++++++++++++++++++++to 0.068
+Heightened Def Con from 0.069 ++++++++++++++++++++to 0.069
+Heightened Def Con from 0.07 ++++++++++++++++++++to 0.07
+Heightened Def Con from 0.071 ++++++++++++++++++++to 0.071
+Heightened Def Con from 0.072 ++++++++++++++++++++to 0.072
+Heightened Def Con from 0.0772 ++++++++++++++++++++to 0.0772
+Heightened Def Con from 0.078 ++++++++++++++++++++to 0.078
+Heightened Def Con from 0.079 ++++++++++++++++++++to 0.079
+Heightened Def Con from 0.08 ++++++++++++++++++++to 0.08
+Heightened Def Con from 0.081 ++++++++++++++++++++to 0.081
+Heightened Def Con from 0.0866 ++++++++++++++++++++to 0.0866
+Heightened Def Con from 0.087 ++++++++++++++++++++to 0.087
+Heightened Def Con from 0.088 ++++++++++++++++++++to 0.088
+Heightened Def Con from 0.089 ++++++++++++++++++++to 0.089
+Heightened Def Con from 0.09 ++++++++++++++++++++to 0.09
+Heightened Def Con from 0.091 ++++++++++++++++++++to 0.091
+Heightened Def Con from 0.096 ++++++++++++++++++++to 0.096
+Heightened Def Con from 0.097 ++++++++++++++++++++to 0.097
+Heightened Def Con from 0.098 ++++++++++++++++++++to 0.098
+Heightened Def Con from 0.099 ++++++++++++++++++++to 0.099
+
+Date: Sat Apr 20 17:11:47 2024
+Total elapsed time: 0.454 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 165943
+traniter = 165936
+tranpoints = 30157
+accept = 17509
+rejected = 13869
+matrix size = 22
+fillins = 0
+solver = Normal
+Matrix Compiler1: 676 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 1.29 KB object code size  0.1/0.1/[0.1]
+

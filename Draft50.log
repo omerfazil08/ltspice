@@ -1,0 +1,206 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\Draft50.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.995033
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 0.999816
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 0 s.
+Trouble finding operating point....skipping operating point for Transient analysis.
+to 2e-009
+Heightened Def Con from 2 ++++++++++++++++++++to 2
+Heightened Def Con from 2.4 to 2.4
+Heightened Def Con from 2.4 ++++++++++++++++++++to 2.4
+Heightened Def Con from 3.1 to 3.1
+Heightened Def Con from 3.1 ++++++++++++++++++++to 3.1
+Heightened Def Con from 3.8 to 3.8
+Heightened Def Con from 3.8 ++++++++++++++++++++to 3.8
+Heightened Def Con from 6 ++++++++++++++++++++to 6
+Heightened Def Con from 6.6 to 6.6
+Heightened Def Con from 6.6 ++++++++++++++++++++to 6.6
+Heightened Def Con from 7.3 to 7.3
+Heightened Def Con from 7.3 ++++++++++++++++++++to 7.3
+Heightened Def Con from 10 ++++++++++++++++++++to 10
+Heightened Def Con from 10.1 to 10.1
+Heightened Def Con from 10.1 to 10.1
+Heightened Def Con from 10.1 ++++++++++++++++++++to 10.1
+Heightened Def Con from 10.8 to 10.8
+Heightened Def Con from 10.8 ++++++++++++++++++++to 10.8
+Heightened Def Con from 11.5 to 11.5
+Heightened Def Con from 11.5 ++++++++++++++++++++to 11.5
+Heightened Def Con from 14 ++++++++++++++++++++to 14
+Heightened Def Con from 14.3 to 14.3
+Heightened Def Con from 14.3 ++++++++++++++++++++to 14.3
+Heightened Def Con from 15 to 15
+Heightened Def Con from 15 ++++++++++++++++++++to 15
+Heightened Def Con from 15.7 to 15.7
+Heightened Def Con from 15.7 ++++++++++++++++++++to 15.7
+Heightened Def Con from 18 ++++++++++++++++++++to 18
+Heightened Def Con from 18.5 to 18.5
+Heightened Def Con from 18.5 ++++++++++++++++++++to 18.5
+Heightened Def Con from 19.2 to 19.2
+Heightened Def Con from 19.2 ++++++++++++++++++++to 19.2
+Heightened Def Con from 19.9 to 19.9
+Heightened Def Con from 19.9 ++++++++++++++++++++to 19.9
+Heightened Def Con from 22 ++++++++++++++++++++to 22
+Heightened Def Con from 22.7 to 22.7
+Heightened Def Con from 22.7 ++++++++++++++++++++to 22.7
+Heightened Def Con from 23.4 to 23.4
+Heightened Def Con from 23.4 ++++++++++++++++++++to 23.4
+Heightened Def Con from 26 ++++++++++++++++++++to 26
+Heightened Def Con from 26.2 to 26.2
+Heightened Def Con from 26.2 ++++++++++++++++++++to 26.2
+Heightened Def Con from 26.9 to 26.9
+Heightened Def Con from 26.9 ++++++++++++++++++++to 26.9
+Heightened Def Con from 27.6 to 27.6
+Heightened Def Con from 27.6 ++++++++++++++++++++to 27.6
+Heightened Def Con from 30 ++++++++++++++++++++to 30
+Heightened Def Con from 30.4 to 30.4
+Heightened Def Con from 30.4 ++++++++++++++++++++to 30.4
+Heightened Def Con from 31.1 to 31.1
+Heightened Def Con from 31.1 ++++++++++++++++++++to 31.1
+Heightened Def Con from 31.8 to 31.8
+Heightened Def Con from 31.8 ++++++++++++++++++++to 31.8
+Heightened Def Con from 34 ++++++++++++++++++++to 34
+Heightened Def Con from 34.6 to 34.6
+Heightened Def Con from 34.6 ++++++++++++++++++++to 34.6
+Heightened Def Con from 35.3 to 35.3
+Heightened Def Con from 35.3 ++++++++++++++++++++to 35.3
+Heightened Def Con from 38 ++++++++++++++++++++to 38
+Heightened Def Con from 38.1 ++++++++++++++++++++to 38.1
+Heightened Def Con from 38.8 to 38.8
+Heightened Def Con from 38.8 ++++++++++++++++++++to 38.8
+Heightened Def Con from 39.5 to 39.5
+Heightened Def Con from 39.5 ++++++++++++++++++++to 39.5
+Heightened Def Con from 42 ++++++++++++++++++++to 42
+Heightened Def Con from 42.3 to 42.3
+Heightened Def Con from 42.3 ++++++++++++++++++++to 42.3
+Heightened Def Con from 43 to 43
+Heightened Def Con from 43 ++++++++++++++++++++to 43
+Heightened Def Con from 43.7 to 43.7
+Heightened Def Con from 43.7 ++++++++++++++++++++to 43.7
+Heightened Def Con from 46 ++++++++++++++++++++to 46
+Heightened Def Con from 46.5 to 46.5
+Heightened Def Con from 46.5 ++++++++++++++++++++to 46.5
+Heightened Def Con from 47.2 to 47.2
+Heightened Def Con from 47.2 ++++++++++++++++++++to 47.2
+Heightened Def Con from 47.9 to 47.9
+Heightened Def Con from 47.9 ++++++++++++++++++++to 47.9
+Heightened Def Con from 50 ++++++++++++++++++++to 50
+Heightened Def Con from 50.7 to 50.7
+Heightened Def Con from 50.7 ++++++++++++++++++++to 50.7
+Heightened Def Con from 51.4 to 51.4
+Heightened Def Con from 51.4 ++++++++++++++++++++to 51.4
+Heightened Def Con from 54 ++++++++++++++++++++to 54
+Heightened Def Con from 54.2 to 54.2
+Heightened Def Con from 54.2 ++++++++++++++++++++to 54.2
+Heightened Def Con from 54.9 to 54.9
+Heightened Def Con from 54.9 ++++++++++++++++++++to 54.9
+Heightened Def Con from 55.6 to 55.6
+Heightened Def Con from 55.6 ++++++++++++++++++++to 55.6
+Heightened Def Con from 58 ++++++++++++++++++++to 58
+Heightened Def Con from 58.4 to 58.4
+Heightened Def Con from 58.4 ++++++++++++++++++++to 58.4
+Heightened Def Con from 59.1 to 59.1
+Heightened Def Con from 59.1 ++++++++++++++++++++to 59.1
+Heightened Def Con from 59.8 to 59.8
+Heightened Def Con from 59.8 ++++++++++++++++++++to 59.8
+Heightened Def Con from 62 ++++++++++++++++++++to 62
+Heightened Def Con from 62.6 to 62.6
+Heightened Def Con from 62.6 ++++++++++++++++++++to 62.6
+Heightened Def Con from 63.3 to 63.3
+Heightened Def Con from 63.3 ++++++++++++++++++++to 63.3
+Heightened Def Con from 66 ++++++++++++++++++++to 66
+Heightened Def Con from 66.1 ++++++++++++++++++++to 66.1
+Heightened Def Con from 66.8 to 66.8
+Heightened Def Con from 66.8 ++++++++++++++++++++to 66.8
+Heightened Def Con from 67.5 to 67.5
+Heightened Def Con from 67.5 ++++++++++++++++++++to 67.5
+Heightened Def Con from 70 ++++++++++++++++++++to 70
+Heightened Def Con from 70.3 to 70.3
+Heightened Def Con from 70.3 ++++++++++++++++++++to 70.3
+Heightened Def Con from 71 to 71
+Heightened Def Con from 71 ++++++++++++++++++++to 71
+Heightened Def Con from 71.7 to 71.7
+Heightened Def Con from 71.7 ++++++++++++++++++++to 71.7
+Heightened Def Con from 74 ++++++++++++++++++++to 74
+Heightened Def Con from 74.5 to 74.5
+Heightened Def Con from 74.5 ++++++++++++++++++++to 74.5
+Heightened Def Con from 75.2 to 75.2
+Heightened Def Con from 75.2 ++++++++++++++++++++to 75.2
+Heightened Def Con from 75.9 to 75.9
+Heightened Def Con from 75.9 ++++++++++++++++++++to 75.9
+Heightened Def Con from 78 ++++++++++++++++++++to 78
+Heightened Def Con from 78.7 to 78.7
+Heightened Def Con from 78.7 ++++++++++++++++++++to 78.7
+Heightened Def Con from 79.4 to 79.4
+Heightened Def Con from 79.4 ++++++++++++++++++++to 79.4
+Heightened Def Con from 82 ++++++++++++++++++++to 82
+Heightened Def Con from 82.2 to 82.2
+Heightened Def Con from 82.2 ++++++++++++++++++++to 82.2
+Heightened Def Con from 82.9 to 82.9
+Heightened Def Con from 82.9 ++++++++++++++++++++to 82.9
+Heightened Def Con from 83.6 to 83.6
+Heightened Def Con from 83.6 ++++++++++++++++++++to 83.6
+Heightened Def Con from 86 ++++++++++++++++++++to 86
+Heightened Def Con from 86.4 to 86.4
+Heightened Def Con from 86.4 ++++++++++++++++++++to 86.4
+Heightened Def Con from 87.1 to 87.1
+Heightened Def Con from 87.1 ++++++++++++++++++++to 87.1
+Heightened Def Con from 87.8 to 87.8
+Heightened Def Con from 87.8 ++++++++++++++++++++to 87.8
+Heightened Def Con from 90 ++++++++++++++++++++to 90
+Heightened Def Con from 90.6 to 90.6
+Heightened Def Con from 90.6 ++++++++++++++++++++to 90.6
+Heightened Def Con from 91.3 to 91.3
+Heightened Def Con from 91.3 ++++++++++++++++++++to 91.3
+Heightened Def Con from 94 ++++++++++++++++++++to 94
+Heightened Def Con from 94.1 ++++++++++++++++++++to 94.1
+Heightened Def Con from 94.8 to 94.8
+Heightened Def Con from 94.8 ++++++++++++++++++++to 94.8
+Heightened Def Con from 95.5 to 95.5
+Heightened Def Con from 95.5 ++++++++++++++++++++to 95.5
+Heightened Def Con from 98 ++++++++++++++++++++to 98
+Heightened Def Con from 98.3 to 98.3
+Heightened Def Con from 98.3 ++++++++++++++++++++to 98.3
+Heightened Def Con from 99 to 99
+Heightened Def Con from 99 ++++++++++++++++++++to 99
+Heightened Def Con from 99.7 to 99.7
+Heightened Def Con from 99.7 ++++++++++++++++++++to 99.7
+
+Date: Wed Apr 24 17:19:53 2024
+Total elapsed time: 0.562 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 212497
+traniter = 183816
+tranpoints = 23445
+accept = 10332
+rejected = 15343
+matrix size = 22
+fillins = 0
+solver = Normal
+Matrix Compiler1: 802 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.1
+

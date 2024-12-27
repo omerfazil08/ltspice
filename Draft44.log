@@ -1,0 +1,23 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\Draft44.asc
+
+WARNING: Less than two connections to node N001.  This node is used by V1.
+WARNING: Less than two connections to node N002.  This node is used by R1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Apr 25 00:30:03 2024
+Total elapsed time: 0.016 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1347
+traniter = 1344
+tranpoints = 673
+accept = 573
+rejected = 100
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1:       2 opcodes  0.0/[0.0]/0.0
+Matrix Compiler2: off  [0.0]/0.0/0.0
+

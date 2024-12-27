@@ -1,0 +1,47 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\Draft49.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.995033
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 0.999816
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 0 s.
+Trouble finding operating point....skipping operating point for Transient analysis.
+to 2e-009
+
+Date: Wed Apr 24 17:19:41 2024
+Total elapsed time: 0.188 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 64321
+traniter = 35650
+tranpoints = 8774
+accept = 6727
+rejected = 2258
+matrix size = 16
+fillins = 0
+solver = Normal
+Matrix Compiler1: 466 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
