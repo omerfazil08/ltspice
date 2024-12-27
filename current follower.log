@@ -1,0 +1,21 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\current follower.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Oct 07 13:52:25 2024
+Total elapsed time: 3.874 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 400040
+traniter = 400034
+tranpoints = 200018
+accept = 200018
+rejected = 0
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 276 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: off  [0.0]/0.1/0.1
+

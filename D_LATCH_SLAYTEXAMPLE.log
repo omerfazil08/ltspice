@@ -1,0 +1,21 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\D_LATCH_SLAYTEXAMPLE.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Apr 20 17:13:23 2024
+Total elapsed time: 0.047 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4607
+traniter = 4600
+tranpoints = 2163
+accept = 1976
+rejected = 187
+matrix size = 12
+fillins = 0
+solver = Normal
+Matrix Compiler1: 356 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 706 bytes object code size  0.0/0.1/[0.0]
+

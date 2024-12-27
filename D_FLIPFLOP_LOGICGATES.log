@@ -1,0 +1,45 @@
+Circuit: * C:\Users\omer-\Documents\LTspiceXVII\D_FLIPFLOP_LOGICGATES.asc
+
+WARNING: Node CLK is floating.
+WARNING: Node CLKN is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.995033
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 0.999816
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 0 s.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Changing Tseed to 9.76562e-009
+Changing Tseed to 9.76563e-011
+Changing Tseed to 9.76562e-008
+Changing Tseed to 9.76562e-012
+Changing Tseed to 9.76563e-007
+Changing Tseed to 9.76562e-013
+Changing Tseed to 9.76562e-006
+Changing Tseed to 9.76563e-014
+Changing Tseed to 9.76563e-005
+Changing Tseed to 9.76562e-015
+Changing Tseed to 0.000976563
+Changing Tseed to 9.76562e-016
+Fatal Error: Analysis:  Time step too small; initial timepoint: trouble with or-instance a3
+
